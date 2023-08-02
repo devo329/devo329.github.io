@@ -1,0 +1,26 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+  --bs-body-bg: var(--bs-gray-100);
+}
+
+body {
+  background-color: white;
+
+}
+
+#icon:hover {
+  transform: scale(1.2);
+  transition: all 0.3s;
+  
+}
+
+li:hover  {
+  color: #000000;
+  transform: scale(1.2);
+  transition: all 0.3s;
+}
+
+
